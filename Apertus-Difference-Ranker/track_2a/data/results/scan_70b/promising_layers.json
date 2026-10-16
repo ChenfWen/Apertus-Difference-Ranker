@@ -1,0 +1,333 @@
+{
+  "selection_source": "training_documents_only",
+  "representation_layer": 17,
+  "vector_layers": [
+    17,
+    19,
+    18,
+    16,
+    20
+  ],
+  "ranked_layers": [
+    {
+      "layer": 17,
+      "spearman_macro": 0.28545470276384216
+    },
+    {
+      "layer": 19,
+      "spearman_macro": 0.28417270966765407
+    },
+    {
+      "layer": 18,
+      "spearman_macro": 0.2830632448323583
+    },
+    {
+      "layer": 16,
+      "spearman_macro": 0.28028273879242627
+    },
+    {
+      "layer": 20,
+      "spearman_macro": 0.2758448280797435
+    },
+    {
+      "layer": 15,
+      "spearman_macro": 0.2755497610128215
+    },
+    {
+      "layer": 21,
+      "spearman_macro": 0.27083972589552857
+    },
+    {
+      "layer": 14,
+      "spearman_macro": 0.269793078957638
+    },
+    {
+      "layer": 13,
+      "spearman_macro": 0.26976721783537966
+    },
+    {
+      "layer": 22,
+      "spearman_macro": 0.2632385317879112
+    },
+    {
+      "layer": 12,
+      "spearman_macro": 0.2560265444940602
+    },
+    {
+      "layer": 28,
+      "spearman_macro": 0.2554540378539774
+    },
+    {
+      "layer": 26,
+      "spearman_macro": 0.2548470861451969
+    },
+    {
+      "layer": 23,
+      "spearman_macro": 0.2543313506678886
+    },
+    {
+      "layer": 27,
+      "spearman_macro": 0.2535850414166739
+    },
+    {
+      "layer": 24,
+      "spearman_macro": 0.2517016402593617
+    },
+    {
+      "layer": 29,
+      "spearman_macro": 0.25158671203402844
+    },
+    {
+      "layer": 11,
+      "spearman_macro": 0.24946968785376863
+    },
+    {
+      "layer": 25,
+      "spearman_macro": 0.2466051112275149
+    },
+    {
+      "layer": 30,
+      "spearman_macro": 0.242390760255334
+    },
+    {
+      "layer": 32,
+      "spearman_macro": 0.23811864816681497
+    },
+    {
+      "layer": 31,
+      "spearman_macro": 0.2283481875389237
+    },
+    {
+      "layer": 10,
+      "spearman_macro": 0.22713111938540065
+    },
+    {
+      "layer": 33,
+      "spearman_macro": 0.21895719977641917
+    },
+    {
+      "layer": 34,
+      "spearman_macro": 0.20881691390471632
+    },
+    {
+      "layer": 35,
+      "spearman_macro": 0.20765894264109197
+    },
+    {
+      "layer": 36,
+      "spearman_macro": 0.19164312187863056
+    },
+    {
+      "layer": 9,
+      "spearman_macro": 0.1868155878232323
+    },
+    {
+      "layer": 37,
+      "spearman_macro": 0.184076587814708
+    },
+    {
+      "layer": 38,
+      "spearman_macro": 0.17677416467784943
+    },
+    {
+      "layer": 8,
+      "spearman_macro": 0.17352312676090476
+    },
+    {
+      "layer": 39,
+      "spearman_macro": 0.1722515175964825
+    },
+    {
+      "layer": 40,
+      "spearman_macro": 0.16772624798987593
+    },
+    {
+      "layer": 41,
+      "spearman_macro": 0.15861895878171445
+    },
+    {
+      "layer": 7,
+      "spearman_macro": 0.15226670321792277
+    },
+    {
+      "layer": 42,
+      "spearman_macro": 0.15211706693895186
+    },
+    {
+      "layer": 43,
+      "spearman_macro": 0.1473477467295703
+    },
+    {
+      "layer": 44,
+      "spearman_macro": 0.14402580612908225
+    },
+    {
+      "layer": 45,
+      "spearman_macro": 0.1412544293727869
+    },
+    {
+      "layer": 46,
+      "spearman_macro": 0.1390475079160335
+    },
+    {
+      "layer": 47,
+      "spearman_macro": 0.13782638945068434
+    },
+    {
+      "layer": 48,
+      "spearman_macro": 0.13323988459081357
+    },
+    {
+      "layer": 6,
+      "spearman_macro": 0.1318220886867987
+    },
+    {
+      "layer": 49,
+      "spearman_macro": 0.13099935232339802
+    },
+    {
+      "layer": 50,
+      "spearman_macro": 0.1289695302224979
+    },
+    {
+      "layer": 51,
+      "spearman_macro": 0.1269870924529928
+    },
+    {
+      "layer": 52,
+      "spearman_macro": 0.12289598996591992
+    },
+    {
+      "layer": 53,
+      "spearman_macro": 0.12183482835558607
+    },
+    {
+      "layer": 54,
+      "spearman_macro": 0.1191776171998457
+    },
+    {
+      "layer": 55,
+      "spearman_macro": 0.11770935060180698
+    },
+    {
+      "layer": 56,
+      "spearman_macro": 0.115911465476147
+    },
+    {
+      "layer": 57,
+      "spearman_macro": 0.1127439599681536
+    },
+    {
+      "layer": 5,
+      "spearman_macro": 0.11111537281761946
+    },
+    {
+      "layer": 58,
+      "spearman_macro": 0.11029696124004473
+    },
+    {
+      "layer": 59,
+      "spearman_macro": 0.11012757270668616
+    },
+    {
+      "layer": 60,
+      "spearman_macro": 0.10482052922035756
+    },
+    {
+      "layer": 61,
+      "spearman_macro": 0.10323499143421329
+    },
+    {
+      "layer": 62,
+      "spearman_macro": 0.10173239613932315
+    },
+    {
+      "layer": 4,
+      "spearman_macro": 0.10046600419775235
+    },
+    {
+      "layer": 63,
+      "spearman_macro": 0.09913485913806609
+    },
+    {
+      "layer": 64,
+      "spearman_macro": 0.09766491874325912
+    },
+    {
+      "layer": 65,
+      "spearman_macro": 0.09519501559505235
+    },
+    {
+      "layer": 3,
+      "spearman_macro": 0.09280413074598097
+    },
+    {
+      "layer": 2,
+      "spearman_macro": 0.09251277435548218
+    },
+    {
+      "layer": 66,
+      "spearman_macro": 0.0922280341660292
+    },
+    {
+      "layer": 80,
+      "spearman_macro": 0.09157538531597094
+    },
+    {
+      "layer": 67,
+      "spearman_macro": 0.08974645895141066
+    },
+    {
+      "layer": 68,
+      "spearman_macro": 0.0878067337768353
+    },
+    {
+      "layer": 69,
+      "spearman_macro": 0.08708654438639134
+    },
+    {
+      "layer": 70,
+      "spearman_macro": 0.0859158694956796
+    },
+    {
+      "layer": 71,
+      "spearman_macro": 0.08370599530008188
+    },
+    {
+      "layer": 72,
+      "spearman_macro": 0.0807921169491211
+    },
+    {
+      "layer": 73,
+      "spearman_macro": 0.07977291265114937
+    },
+    {
+      "layer": 74,
+      "spearman_macro": 0.07860829844916344
+    },
+    {
+      "layer": 76,
+      "spearman_macro": 0.07822408723508402
+    },
+    {
+      "layer": 75,
+      "spearman_macro": 0.07780408966662146
+    },
+    {
+      "layer": 1,
+      "spearman_macro": 0.07637273793665027
+    },
+    {
+      "layer": 77,
+      "spearman_macro": 0.07342098877045028
+    },
+    {
+      "layer": 78,
+      "spearman_macro": 0.06913991632433782
+    },
+    {
+      "layer": 79,
+      "spearman_macro": 0.06603042325713991
+    }
+  ]
+}

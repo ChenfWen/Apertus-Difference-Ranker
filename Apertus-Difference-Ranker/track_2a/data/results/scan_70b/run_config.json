@@ -1,0 +1,20 @@
+{
+  "output_dir": "artifacts/scan-70b",
+  "model_name": "swiss-ai/Apertus-v1.5-70B",
+  "dataset_name": "ZurichNLP/SwissGov-RSD",
+  "dataset_revision": null,
+  "split": "dev",
+  "max_documents": null,
+  "validation_per_language": 17,
+  "seed": 42,
+  "top_layers": 5,
+  "max_length": 8192,
+  "dtype": "auto",
+  "storage_dtype": "float32",
+  "ner_model_name": "Davlan/xlm-roberta-base-ner-hrl",
+  "pos_model_name": "wietsedv/xlm-roberta-base-ft-udpos28-en",
+  "tagger_max_length": 512,
+  "tagger_stride": 128,
+  "tagger_batch_size": 8,
+  "force": false
+}
